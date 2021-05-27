@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Y2021W11ServicesNotification</string>
+    <string name="channel_name">RECEIVER_CH</string>
+</resources>
